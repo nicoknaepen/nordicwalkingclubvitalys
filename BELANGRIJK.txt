@@ -1,0 +1,8 @@
+Aangaande Joomla , Wordpress, Drupal & andere CMS'en.
+######################################################
+
+de map "tmp" laten staan
+php instellingen worden gewijzigd in php.ini, dus ook graag laten staan.
+beide kunnen gebruikt worden om een aangepaste config aan te maken.
+Graag ook de rechten laten voor wat ze zijn.
+Bij vragen : support@linix.eu
