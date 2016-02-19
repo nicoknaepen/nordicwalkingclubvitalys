@@ -356,7 +356,7 @@ ul.pager a:hover { background:#4eabd7; }
 
 #navigation ul.menu li.last { padding:0; }
 
-#navigation ul.menu li a { outline:none; padding: 5px 10px; text-decoration: none; display:block; color:#7A8090; font-size:17px; font-weight:bold; text-align:center; }
+#navigation ul.menu li a { outline:none; padding: 5px 5px; text-decoration: none; display:block; color:#7A8090; font-size:17px; font-weight:bold; text-align:center; }
 
 #navigation ul.menu li a:hover, #navigation ul.menu li a.active{ text-decoration:none; color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; background: #0d0f13; }
 
